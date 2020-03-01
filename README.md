@@ -1,3 +1,3 @@
 # hello-world
-My first repository
+Mi primer repositorio
 Es mi primer repositorio sobre un trabajo sobre funciones constructoras y generar nuevas instancias
