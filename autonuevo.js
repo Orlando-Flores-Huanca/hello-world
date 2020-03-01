@@ -14,7 +14,7 @@ function auto(marca, modelo, anio){
     autos.push(aut);
   }
   
-//mostrar el array 
+//mostrar el array con su contenido
   for(i= 0; i<30; i++){
    console.log(`Marca: ${autos[i].marca} Modelo : ${autos[i].modelo} Año ${autos[i].anio}`) 
   }
